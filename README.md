@@ -1,2 +1,2 @@
-# google-forms-spammer
-google forms spammer in html
+# google forms spammer
+Google forms spammer in html
